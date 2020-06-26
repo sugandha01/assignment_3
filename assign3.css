@@ -1,6 +1,4 @@
-body { 
-	padding-top: 70px; 
-}
+
 .heading
 {
 	margin-top: 0px;
@@ -37,23 +35,11 @@ hr
 {
 	color: #000000;
 }
-#fixed
-{
-	padding: 0;
-	margin: 0;
-	
-}
-.navbar
-{
-	margin-bottom: 0;
-}
-#collapsable-nav
-{
-padding-bottom: 0px;
-}
+
+
 .navbar-toggle
 {
 	position: absolute;
-	top: 0;
+	top: 15px;
 	right: 0;
 }
